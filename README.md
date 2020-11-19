@@ -1,7 +1,7 @@
 
 # Personal Site Challenge
 
-> This is the first meeting CSS & HTML challenge -> Personal Site ( you can see a preview in the bottom of the page ).
+> This is the first meeting CSS challenge -> Personal Site ( you can see a preview in the bottom of the page ).
 
 ---
 
@@ -23,19 +23,15 @@
 
 ## Instructions
 
-- [ ] Clone this repository.
-- [ ] Checkout to the starting-files branch
-- [ ] Try to mimic the following site ( listed bellow ).
+- [X] Clone this repository.
+- [X] Checkout to the starting-files branch
+- [X] Try to mimic the following site ( listed bellow ).
 
 ---
 
 ## STYLE GUIDE: 
 
 Please fill free to use this style guide to complete the task.
-
-first gif = https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif
-<br />
-second gif = https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif 
 
 ### Colors: 
     header background = #E4F9F5
