@@ -1,0 +1,157 @@
+
+
+header{text-align: center;}
+body{
+    text-align: center;
+   
+   
+}
+.middle{
+    width: 43rem;
+    margin: 0 auto;
+}
+
+*{
+    margin: 0px;
+    padding: 0;
+    flex-flow: row nowrap;
+}
+header{
+    margin: 0px;
+    padding: 0;
+    background-color: rgb(213, 253, 253);
+}
+.upcloud{
+    right: 300px;
+    top: 40px;
+    float: left;
+    margin-top: 8rem;
+    margin: 3rem;
+
+}
+.title{
+    margin-right: 9rem;
+    padding: 2em;
+   font-family: 'Sacramento', cursive;
+   
+   
+}
+.s_title{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mountain{
+    margin-top: 10rem;
+    margin-right: -18rem;
+
+}
+.me{
+    margin: 6rem;
+    border-radius: 20rem;
+    height: 150px;
+    width: 150px;
+}
+.donecloud{
+    left: 250px; 
+    bottom: 300px;
+    float: right;
+    margin-right: 8rem;
+
+}
+.hello{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2rem;
+}
+.love{
+    font-family: Montserrat;
+    margin-bottom: 6rem;
+ 
+}
+.skills{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2rem;
+}
+article{
+    border-radius: 2rem;
+    border: 3px;
+    margin-bottom: 4rem;
+}
+
+.box1{
+    font-family: Montserrat;
+    text-align: left;
+
+}
+.box2{
+    font-family: Montserrat;
+    text-align: left;
+    margin-bottom: 1rem;
+}
+p{
+    font-family: Montserrat;
+    text-align: left;
+    size: 1rem;
+   
+}
+.img1{
+    float: right;
+    height: 7rem;
+    width: 8rem;
+    padding: 1rem;
+   
+}
+.img2{
+    float: left;
+    height: 7rem;
+    width: 8rem;
+    padding: 1rem;
+    
+}
+.t1{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 20px;
+  
+    margin-bottom: 1rem;
+}
+.t2{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 20px;
+   
+    margin-bottom: 0.5rem;
+}
+.title_box3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2rem;
+    text-align: center;
+}
+.s_title_box3{
+    font-family: Montserrat;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.box3{
+    font-family: Montserrat;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+footer{
+    background-color: #66BFBF;
+
+}
+button{
+    color: blanchedalmond;
+    margin: 2rem;
+    background-color: black;
+    height: 2rem;
+    width: 8rem;
+    font-size: 1rem;
+}
+
+nav li{
+    text-align: center;
+    display: inline-block;
+    margin: 2rem;
+}
+nav a:hover{
+    color: black;
+
+}
