@@ -1,0 +1,67 @@
+header{
+    background-color: #E4F9F5;
+    padding-top: 50px;
+}
+.header1{
+   padding-top: 60px;
+   text-align: center;
+}
+
+body{
+    text-align: center;
+    
+}
+footer{
+    background-color: #66BFBF;
+}
+
+h1{
+    font-family: 'Sacramento';
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+}
+
+h2,h3,h4,h5{
+    font-family: 'Montserrat';
+   
+}
+.mountain{
+    margin-bottom: 0px;
+}
+p{
+    text-align: center;
+}
+h6{
+    font-family: 'Montserrat';
+    text-align: center;
+    
+}
+.cloud1{    
+    margin-right: 300px;
+    margin-top: 40px;
+}
+.cloud2{
+    margin-left:250px;
+    margin-bottom: 300px;
+}
+.developer{
+ float: right;
+ height: 100px;
+ padding: 0;
+ margin: 0;
+  }
+.developer2{
+   float: left;
+   padding: 0;
+   height: 100px;
+   margin: 0;
+  }
+.main{
+    width: 600px;
+    margin: 0 auto;
+}
