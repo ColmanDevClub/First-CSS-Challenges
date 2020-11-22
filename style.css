@@ -1,0 +1,122 @@
+body {
+  font-family: "Merriweather";
+  color: #40514e;
+}
+
+h1 {
+  font-family: "Sacramento";
+  text-align: center;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat";
+  text-align: center;
+  color: #66bfbf;
+}
+
+h3 {
+  font-family: "Montserrat";
+  text-align: center;
+  color: #11999e;
+}
+
+h4 {
+  font-family: "Montserrat";
+  text-align: center;
+  color: #66bfbf;
+}
+
+h5 {
+  font-family: "Montserrat";
+  color: #66bfbf;
+}
+
+h6 {
+  font-family: "Montserrat";
+  color: #11999e;
+}
+
+.cloud1 {
+  position: relative;
+  top: 40px;
+  right: 300px;
+}
+
+.cloud2 {
+  position: relative;
+  bottom: 300px;
+  left: 250px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.hello {
+  width: 20%;
+}
+
+.gif1 {
+  width: 28%;
+  float: right;
+  margin-left: 20px;
+}
+
+.gif2 {
+  width: 22%;
+  float: left;
+  margin-right: 20px;
+}
+
+.container {
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-right: 180px;
+  margin-left: 180px;
+  line-height: 1.8;
+}
+
+.cloudContainer1 {
+  margin-top: 40px;
+  margin-right: 100px;
+  margin-left: 800px;
+}
+
+.cloudContainer2 {
+  margin-bottom: 10px;
+  margin-left: 250px;
+  margin-right: 300px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.margin-top-200 {
+  margin-top: 200px;
+}
+
+.margin-top-150 {
+  margin-top: 150px;
+}
+
+.margin-top-100 {
+  margin-top: 100px;
+}
+
+button {
+  background: #11cdd4;
+  color: floralwhite;
+}
+
+button:hover {
+  background: #30e3cb;
+}
+
+.white-text-color {
+  color: white !important;
+}
