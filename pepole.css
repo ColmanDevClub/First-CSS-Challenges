@@ -1,0 +1,236 @@
+
+
+body{
+
+  width: 2500px;
+  margin: 0 auto;
+  
+}
+
+
+h1{
+
+    font-family: "Sacramento";
+      color:#66BFBF;
+      
+
+
+}
+
+h2{
+
+    font-family: "Montserrat";
+    color:#66BFBF;
+    
+    text-align: center;
+    margin-bottom: 5rem;
+    
+
+}
+
+
+
+h3{
+   
+    color: #11999E;
+    
+    
+
+
+}
+
+h4{
+
+    text-align: center;
+    margin-bottom: 40rem;   
+    ;
+
+}
+
+.skills{
+
+  position: relative;
+  text-align: center;
+  bottom: 20rem;
+  margin-bottom: -10rem;
+  
+
+
+}
+
+
+
+header{
+
+    background-color:#E4F9F5;
+    text-align: center; 
+
+   
+    
+  }
+
+  p{
+
+    color:  #40514E;
+
+  }
+
+
+
+main{
+
+    margin-top: 20rem;
+    font-size: 2rem;
+    
+
+
+}
+
+footer{
+
+    height: 8rem;
+    background-color: #66BFBF ;
+    color: #EAF6F6;
+    margin-bottom: 30rem;
+    display: block;
+    text-align: center;
+
+
+}
+
+
+.typing{
+
+  position: relative;
+  top:6rem ;
+  width:20rem;
+  left: 32rem;
+
+    
+
+}
+.cloudright{
+
+    position: relative;
+    bottom:20rem;
+    right: 300px;
+    
+}
+
+.cloudleft{
+
+    position: relative;
+    left:70rem;
+    bottom:35rem;
+
+}
+
+.computer
+{
+  position: relative;
+  left:80rem;
+  bottom: 17rem;
+  
+  width:20rem;
+    
+    
+}
+
+.gethelp{
+   
+    text-align: center;
+    margin-top: 15rem;
+
+}
+
+.debug{
+    text-align: left;
+    position: relative;
+    bottom: 9rem;
+    left: 55rem;
+   
+
+
+}
+
+.haker{
+
+    position: relative;
+    top: 10rem;
+    right: 34rem;
+    top: 15rem;
+    border-radius: 100px;
+    width: 200px;
+
+}
+
+.mountion{
+
+    position: relative;
+    right: 3rem;;
+    width: 750px;
+    height:500px;
+    margin-bottom: 10rem ;
+}
+
+.textdebug{
+
+    text-align: left;
+    margin-left: 25rem;
+}
+
+.contact{
+
+    width: 12rem;
+    height: 3rem;
+    margin-bottom: 6rem;
+    border-radius:0.4rem;
+    background-color: #11cdd4;
+    color: white;
+    border: none;
+    
+
+}
+
+.contact:hover{
+
+    background-color: #30e3cb;
+
+
+
+}
+
+
+  
+  nav li{
+    flex-basis: 1%;
+    padding-right:  2rem;
+    padding-left: 0rem;
+    margin-top:2rem;
+    display: inline-block;
+  }
+
+  .dev{
+
+    text-align: center;
+    color: #EAF6F6;
+
+
+  }
+
+  .Design{
+
+    position: relative;
+    left:30rem;
+
+  }
+    
+    
+
+
+
+
+
+
+    
+    
