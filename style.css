@@ -36,6 +36,18 @@ h6 {
   font-family: "Montserrat";
 }
 
+.cloud1 {
+  position: relative;
+  top: 40px;
+  right: 300px;
+}
+
+.cloud2 {
+  position: relative;
+  bottom: 300px;
+  left: 250px;
+}
+
 .center {
   display: block;
   margin-left: auto;
