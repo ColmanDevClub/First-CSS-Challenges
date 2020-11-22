@@ -1,0 +1,188 @@
+header{
+background-color: #E4F9F5;
+text-align: center;
+
+}
+
+body{
+    margin: 0 auto;
+    width: 85rem;
+}
+
+.hacker{
+    border-radius: 100px;
+    position: relative;
+    top:1.3rem;
+    /* bottom: rem; */
+    width: 150px;
+    left: 38rem;
+}
+
+.img1{
+    float: 250px; 
+    /* position: absolute; */
+    /* border-right: 150px; */
+    left: 22rem;
+    position: relative;
+    top:1rem;
+
+}
+.img2{
+    float: 250px; 
+    /* bottom: 450px; */
+    /* bottom: 25rem; */
+    /* left: 250px; */
+    /* right: 25rem; */
+    /* position: absolute; */
+    position: relative;
+    right: 25rem;
+    top:10rem;
+
+
+}
+.img3{
+    width: 450px;
+    height: 300px;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    text-align: center;
+    /* top: 5rem; */
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    text-align: center;
+}
+h3{
+    color: #66BFBF;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color:#40514E;
+}
+
+.p-1{
+    color:#40514E;
+    font-size: 1.5rem;
+    /* margin-right: 50rem; */
+    position: relative;
+    text-align: left;
+    line-height: 2.5rem;
+    margin-bottom: 5rem;
+    
+}
+
+.p-2{
+    /* left:50rem; */
+    color:#40514E;
+    font-size: 1.5rem;
+    margin-right: 30rem;
+    position: relative;
+    text-align: left;
+    /* right: -22.5rem; */
+    left: 22.8rem;
+    bottom: 25rem;
+    line-height: 2.5rem;
+    /* margin-top: -0.5rem; */
+
+}
+
+.Design{
+    text-align: left;
+    font-family: 'Merriweather';
+    color:#11999E;
+    margin-top: 4rem;
+    position: relative;
+    bottom: 0.1rem;
+}
+
+.Debugging{
+    text-align: right;
+    font-family: 'Merriweather';
+    color:#11999E;
+    /* bottom: 145px; */
+    /* right: 200px; */
+    bottom: 7.5rem;
+    left: -56rem;
+    position: relative;
+    
+}
+
+.gif1{
+    position: relative;
+    left:52rem;
+    bottom: 15rem;
+    width:18rem;
+    bottom: 15rem;
+}
+
+.gif2{
+    position: relative;
+    right:0;
+    width:20rem;
+    bottom: 10rem;
+    
+}
+
+.Get{
+    margin-top: -15rem;
+}
+
+.love{
+    font-family: 'Merriweather';
+    color:#11999E;
+    text-align: center;
+    /* margin-bottom: 100rem; */
+}
+.p-3{
+    color:#40514E;
+    text-align: center;
+    left: 3rem;
+    /* left: 105px; */
+    position: relative;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+ 
+}
+
+button{
+    text-align: center;
+    color: white;
+    background-color:#11cdd4 ;
+    border-left: 13rem;
+	padding: 0.5rem 1rem;
+    border-radius: 0.4rem;
+    margin: 5rem 0 ;
+    margin-left: 40rem;
+    border: none;
+}
+
+button:hover{
+    color: #30e3cb;
+}
+
+footer{
+    background-color:#66BFBF ;
+    color:  #EAF6F6;
+    text-align: center;
+    font-size: 1rem;
+    display: block;
+    margin-bottom: 4rem;
+}
+li{
+    color: #11999E;
+    display: inline-block;
+    padding-right: 2rem;
+    margin-top: 3rem;
+    font-size: 1.5rem
+}
+/* br{
+    bottom: 1rem;
+} */
+
+
