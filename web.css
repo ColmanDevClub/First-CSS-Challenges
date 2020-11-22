@@ -1,0 +1,123 @@
+body{
+    text-align: center;
+}
+nav{
+    background-color:#66BFBF
+}
+header{
+    background-color:#E4F9F5;
+}
+footer{
+    background-color: #66BFBF;
+    border: 0rem;
+    direction: ltr;
+}
+main{
+    font-family: 'Merriweather';
+    color: #40514E;
+
+}
+h1{
+    font-family:'Sacramento';
+}
+h2,h3,h4,h5,h6{
+  font-family: 'Montserrat';
+}
+h1,h2{
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+    display: inline;
+    /* word-spacing: 1rem; */
+    text-decoration: none;
+}
+p{
+    text-align: left;
+}
+.container{
+    position:relative;
+}
+.image{
+    position: absolute;
+    left: 60rem;
+    top: -10rem;
+}
+.image2{
+    position: absolute;
+    right: 52rem;
+    top: 11rem;
+}
+button{
+    background-color: #11999E;
+    color: #E4F9F5;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+button:hover{
+    background-color: #30e3cb;
+    color: #E4F9F5;
+    text-align: center;
+    border: none;
+    padding: 20px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+}   
+a{
+    color: #11999E;
+}
+h5{
+    color: aliceblue;
+}
+ul{
+    display: inline;
+
+}
+.gif1{
+    text-align: right;
+    direction: rtl !important;
+    margin: 2rem 25rem -9rem 0rem;
+
+}
+.gif2{
+    text-align: right;
+    direction: ltr !important;
+    margin-right: 68rem;
+    /* margin: 2rem 25rem -9rem 0rem; */
+
+}
+li{
+    display: inline;
+    word-spacing: 1rem;
+
+}
+a:link{
+    text-decoration: none;
+    word-spacing: 1rem;
+}
+span{
+    text-align: center;
+}
+.fix{
+    margin-left: 14rem;
+    margin-top: -8rem;
+}
+.pos{
+    margin-left: 30rem;
+}
+.Rpic{
+    border-radius: 38rem;
+    width: 9rem;
+    height: 9rem;
+}
+.dot{
+    color:#E4F9F5; 
+    font-weight: bold;
+}
