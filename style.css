@@ -34,6 +34,7 @@ h5 {
 
 h6 {
   font-family: "Montserrat";
+  color: #11999e;
 }
 
 .cloud1 {
@@ -72,11 +73,23 @@ h6 {
 }
 
 .container {
-  margin-top: 100px;
+  margin-top: 10px;
   margin-bottom: 100px;
   margin-right: 180px;
   margin-left: 180px;
   line-height: 1.8;
+}
+
+.cloudContainer1 {
+  margin-top: 40px;
+  margin-right: 100px;
+  margin-left: 800px;
+}
+
+.cloudContainer2 {
+  margin-bottom: 10px;
+  margin-left: 250px;
+  margin-right: 300px;
 }
 
 .text-center {
@@ -97,8 +110,13 @@ h6 {
 
 button {
   background: #11cdd4;
+  color: floralwhite;
 }
 
 button:hover {
   background: #30e3cb;
+}
+
+.white-text-color {
+  color: white !important;
 }
