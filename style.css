@@ -1,0 +1,148 @@
+*{
+   margin:0;
+   padding: 0;
+}
+
+body{
+   text-align: center;
+   line-height: 1.7;
+   font-size: 17px;
+}
+header{
+   background-position: top;
+   position: relative;
+   background-color:#E4F9F5;
+   color:#66BFBF;
+   height: 90vh;
+}
+.top-cloud{
+   position: absolute;
+   right: 300px;
+   top: 40px;
+}
+.text-box{
+   position: absolute;
+   top: 30%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+   line-height: 1.5;
+
+}
+.main-title{
+   display: block;
+   font-family: 'Sacramento';
+   font-size: 60px;
+}
+.sub-title{
+   display: block;
+   font-family: 'Montserrat';
+   font-size: 30px;
+   font-weight: 100;
+   color:#66BFBF;
+   margin: 40px;
+}
+.underline
+{
+   text-decoration: underline;
+}
+.Bottom-cloud
+{
+   position: absolute;
+   left: 250px;
+   bottom: 300px;
+}
+.mountain{
+   position: absolute;
+   left: 50%;
+   transform: translate(-50%);
+   bottom: 0;
+}
+
+
+main{
+   color:#40514E;
+   font-family: 'Merriweather';
+}
+.logo
+{
+   border: none;
+   border-radius: 300px;
+   width: 200px;
+   height: 200px;
+   margin-top: 90px;
+}
+.row{
+   margin-top: 250px;
+}
+.col-2-of-3 {
+   width: 1000px;
+   margin: auto;
+  padding: 50px;
+  overflow: auto;
+  text-align: left;
+  line-height: 40px;
+}
+.col-1-of-3 {
+   width: 730px;
+   margin: auto;
+  padding: 50px;
+  overflow: auto;
+  text-align: center;
+}
+.head3{
+   text-align: center;
+   padding-bottom: 30px;
+}
+.gif1{
+   float: right;
+   width: 250px;
+   height: 130px;
+   padding-left: 10px;
+
+}
+.gif2{
+   float: left;
+   width: 250px;
+   height: 160px; 
+   padding-right: 20px;
+}
+h3{
+   color: #11999E;
+   font-family: 'Montserrat';
+   text-align: left;
+}
+
+footer{
+   background: #66BFBF;
+   color: #EAF6F6;
+   height: 150px;
+   font-size: 15px;
+}
+
+ul{
+   padding-top:   50px;
+   padding-bottom: 20px;;
+}
+ul li{
+   display: inline;
+   color:#11999E;
+   margin:30px;
+}
+
+.button{
+   display: inline-block;
+   background-color: #11cdd4;
+   color: white;
+   font-family: 'Montserrat';
+   border: none;
+   border-radius: 10px;
+   width: 170px;
+   height: 40px;
+   font-size: 20px;
+   margin-bottom: 80px;
+}
+.button:hover {
+   background-color: #30e3cb;
+
+}
