@@ -1,33 +1,42 @@
 header{
     background-color: #E4F9F5;
-    padding-top: 50px;
-}
-.header1{
-   padding-top: 60px;
-   text-align: center;
-}
-
-body{
+   
     text-align: center;
+    box-sizing: border-box;
+  padding: 30px;
+  width: 100%;
     
 }
-footer{
-    background-color: #66BFBF;
+
+
+.foot{
+    background-color: #66BFBF;   
+    text-align: center;
+    box-sizing: border-box;
+  padding: 30px;
+  width: 100%;
+color:white;
+    
+    
 }
 
 h1{
     font-family: 'Sacramento';
     color: #66BFBF;
+    text-align: center;
 }
 h2{
     color: #66BFBF;
+    text-align: center;
 }
 h3{
     color: #11999E;
+    text-align: center;
 }
 
 h2,h3,h4,h5{
     font-family: 'Montserrat';
+    text-align: center;
    
 }
 .mountain{
@@ -36,11 +45,7 @@ h2,h3,h4,h5{
 p{
     text-align: center;
 }
-h6{
-    font-family: 'Montserrat';
-    text-align: center;
-    
-}
+
 .cloud1{    
     margin-right: 300px;
     margin-top: 40px;
@@ -50,13 +55,13 @@ h6{
     margin-bottom: 300px;
 }
 .developer{
- float: right;
+ 
  height: 100px;
  padding: 0;
  margin: 0;
   }
 .developer2{
-   float: left;
+  
    padding: 0;
    height: 100px;
    margin: 0;
@@ -65,3 +70,19 @@ h6{
     width: 600px;
     margin: 0 auto;
 }
+.text-and-pic{
+    display: flex;
+}
+
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    background-color: #11cdd4;
+    color:white;
+    text-decoration-color: white;
+    top: 50%;
+}
+.button:hover {background-color: #30e3cb}
