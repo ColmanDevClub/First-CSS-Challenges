@@ -2,6 +2,9 @@
 אני מבצע שינוי כלשהו. זה שקול ל
 PUSH
 מהמחשב שלך
+או לפקודה 
+git push origin master
+
 
 # Personal Site Challenge TEST
 
