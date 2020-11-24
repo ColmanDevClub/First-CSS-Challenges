@@ -1,0 +1,201 @@
+header{
+    background-color:#E4F9F5;
+    color: #66BFBF;
+    text-align: center;
+}
+
+h1{
+    font-family:'Sacramento';
+    padding-top: 100px;
+}
+
+h2{
+    font-family:'Montserrat';
+    color: #66BFBF;
+}
+
+h4{
+    font-family:'Montserrat';
+    color: #66BFBF;
+}
+
+br{
+    line-height: 1.6;
+}
+
+.container-overlay >.cloud:nth-child(1){
+    position: absolute;
+    display: block;
+    width: 100px; 
+    height: 40px;
+    margin-left:  300px;
+    bottom: 300px;
+}
+
+.container-overlay >.cloud:nth-child(2){
+    position: absolute;
+    width: 100px; 
+    height: 40px;
+    right: 400px;
+}
+
+
+.container-overlay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) 
+}
+
+.mountain{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.hacker{
+    position: absolute;
+    left: 650px;
+    width: 200px; 
+    height: 200px;
+    border-radius: 50%;
+}
+
+.midpage{
+    text-align: center;
+    position: absolute;
+    padding-top: 225px;
+    padding-left: 610px;
+}
+
+
+.skillsheader{
+    text-align: center;
+    position: absolute;
+    padding-top: 375px;
+    padding-left: 685px;
+}
+
+.firstskill{
+    text-align: center;
+    position: absolute;
+    padding-top: 475px;
+    padding-left: 400px;
+}
+
+.firstgiff{
+    text-align: center;
+    position: absolute;
+    display: inline-block;
+    padding-top: 510px;
+    padding-left: 920px;
+    width: 130px; 
+    height: 70px;
+}
+
+.giffparagraph1{
+    position: absolute;
+    display: block;
+    padding-top: 525px;
+    padding-left: 400px;
+}
+
+.secondskill{
+    text-align: center;
+    position: absolute;
+    padding-top: 675px;
+    padding-left: 570px;
+}
+
+.secondgiff{
+    text-align: center;
+    position: absolute;
+    display: inline-block;
+    padding-top: 710px;
+    padding-left: 400px;
+    width: 130px; 
+    height: 90px;
+}
+
+.giffparagraph2{
+    position: absolute;
+    display: block;
+    padding-top: 725px;
+    padding-left: 570px;
+}
+
+.ending{
+    text-align: center;
+    position: absolute;
+    padding-top: 825px;
+    padding-left: 650px;
+}
+
+.endingsentence{
+    text-align: center;
+    position: absolute;
+    padding-top: 875px;
+    padding-left: 590px;
+}
+
+
+.giffparagraph3-1{
+    position: absolute;
+    display: block;
+    padding-top: 950px;
+    padding-left: 500px;
+}
+.giffparagraph3-2{
+    position: absolute;
+    display: block;
+    padding-top: 975px;
+    padding-left: 475px;
+}
+.giffparagraph3-3{
+    position: absolute;
+    display: block;
+    padding-top: 1000px;
+    padding-left: 525px;
+}
+
+button{
+    position: absolute;
+    background-color: #11cdd4;
+    border: none;
+    color: white;
+    display: inline-block;
+    padding: 5px 12px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    top: 1770px;
+    left: 675px;
+    cursor: pointer;
+}
+
+button:hover{
+    color: #30e3cb; 
+}
+
+footer{
+    position: absolute;
+    top: 1875px;
+    width: 100%;
+    background-color: #66BFBF;
+    color:#11999E;
+    font-family:'Montserrat';
+    font-size: smaller;
+    padding-left: 600px;
+    padding-top: 100px;
+    height: 100px;
+}
+
+.footerending{
+    word-spacing: 1cm;
+    
+}
+.footertext{
+    color: #EAF6F6;
+    position: relative;
+    padding-left: 87.5px;
+    padding-top: 25px;
+}
