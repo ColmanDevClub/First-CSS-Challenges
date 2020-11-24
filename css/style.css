@@ -15,8 +15,8 @@ body{
 }
 .undCloud{
     position: absolute;
-    left: 249px;
-    bottom: 700px;
+    left: 150px;
+    bottom: 430px;
 }
 header{
 
@@ -83,7 +83,7 @@ h5{
     float: left;
     text-align: left;
     height: 170px;
-    margin-right: 3rem;
+    margin-right: 1rem;
 }
 .common2{
     color: #40514E;
