@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    text-align: center;
+}
+
+header{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 9rem;
+} 
+
+.top-cloud {
+    position: absolute;
+    right: 270px;
+    top: 80px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 150px; 
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: 'Sacramento', serif;
+    color: #66BFBF;
+}
+
+h2, h4, h5, h6 {
+    font-family: 'Montserrat', serif;
+    color: #66BFBF;
+}
+h3 {
+    font-family: 'Montserrat', serif;
+    color: #11999E;
+}
+.radiues-img {
+    border-radius : 15em;
+    height: 150px;
+    width: 150px;
+}
+
+main { 
+    margin: 10rem 0;
+    font-family: 'Merriweather', sans-serif;
+}
+
+
+.skills__item {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skills_marg {
+    margin: 10px auto 10px auto;
+}
+
+.skills__item > img {
+     width: 25%; 
+}
+.skills__item--right > img { float: right;  margin-left: 30px; }
+.skills__item--left > img { float: left;  margin-right: 30px; }
+
+
+
+
+.bottom-p {
+    padding: 1rem;
+}
+
+.message { 
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.button{
+    background-color: #11cdd4;
+    color: white;
+    border-radius : 10px;
+    display: inline-block;
+    font-size: 2rem;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #30e3cb;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.sub-title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    
+    font-family: sans-serif;
+    color: #01704f;
+    text-decoration: none;
+    margin: 1.5rem;
+    display: inline-block;
+    font-size: 1rem;
+    text-decoration-color: #EAF6F6;
+}
+
+a:hover {
+    background-color: wheat;
+}
+.symbol {
+    color: white;
+    font-size: 11px;
+}
+footer {
+
+    background-color: #66BFBF;
+    font-family: 'Merriweather';
+}
