@@ -1,0 +1,129 @@
+body{
+    margin-top: 0;
+    margin-bottom:0 ;
+    text-align: center;
+    line-height: 2;
+
+}
+header{
+    padding-top: 5rem;
+    background-color:#E4F9F5 ;
+    color: #EAF6F6 ;
+}
+footer{
+    margin-top: 80px;
+    background-color:#66BFBF ;
+    color: #EAF6F6;
+    margin-bottom:0 ;
+
+}
+main{
+    
+    color:#40514E ;
+    font-family: Merriweather;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+h1{
+    color: #66BFBF;
+    font-family: Sacramento;
+    font-weight: bold;
+}
+h2{
+    color: #66BFBF;
+    font-family: Montserrat;
+
+}
+h3{
+    color: #11999E;
+    font-family:Montserrat;
+    text-align: left;
+
+}
+span{
+    text-decoration: underline;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottomcloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    padding-bottom: 300px;
+}
+.hello{
+    margin-top: 100px;
+    margin-bottom: 200px;
+
+}
+.devguy{
+    border-radius: 500px;
+}
+.myskills{
+    margin-top: 120px;
+
+}
+.dnd{
+    display: flex;
+    flex-direction: row nowrap;
+    text-align: left;
+}
+.debud{
+    display: flex;
+    text-align: left;
+    margin-top: 75px;
+}
+.gif1{
+    align-items: left;
+    margin-bottom: 30px;
+    margin-left: 20px;
+
+}
+.gif2{
+    align-items: left;
+    margin-right: 20px;
+    margin-top: 30px;
+
+}
+.touch{
+    margin-top: 200px;
+}
+.touch h3{
+    text-align: center;
+}
+button{
+    background-color:  #11cdd4;
+    border-radius: 7px;
+    font-size: 15px;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 20px;
+}
+button:hover{
+    background-color:  #30e3cb;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+li{
+    list-style-type: none;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #11999E;
+    font-family: Montserrat;
+
+}
+footer p{
+    padding-bottom: 40px;
+    margin-bottom: 0;
+}
+
+
