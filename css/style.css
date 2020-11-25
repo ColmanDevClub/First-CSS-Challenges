@@ -1,0 +1,123 @@
+body{
+    font-family:'Merriweather';
+    color:#40514E;
+    margin:0;
+    
+}
+.body{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.topCloud{
+    position: absolute;
+    top:20px;
+    right:100px;
+}
+.undCloud{
+    position: absolute;
+    left: 150px;
+    bottom: 430px;
+}
+header{
+
+    background-color: #E4F9F5;
+    text-align : center;
+   padding-top: 100px;
+    
+}
+
+h1{
+    font-family: 'Sacramento';
+    text-align : center;
+    margin-top:0;
+
+ 
+}
+h2{
+ font-family: 'Montserrat';
+ text-align : center;
+}
+p {
+    color: #11999E;
+    text-align : center;
+    font-size:2rem;
+
+}
+h3{
+    text-align : center;
+    margin-bottom: 5rem;
+}
+.underline{
+    text-decoration: underline;
+}
+.skills{
+    color: #11999E;
+    font-family: 'Montserrat';
+    text-align : center;
+    font-size:2rem;
+}
+h4{
+    color: #11999E;
+    font-family: 'Montserrat';
+    text-align : left;
+}
+.common{
+    color: #40514E;
+    text-align: left;
+    font-family: 'Merriweather';
+    font-size: 1rem;
+    line-height: 3;
+}
+.geek{
+    float:right;
+text-align: right;
+height: 170px;
+}
+h5{
+    color: #11999E;
+    font-family: 'Montserrat';
+    text-align : left;
+    font-size: large;
+}
+.programmer{
+    float: left;
+    text-align: left;
+    height: 170px;
+    margin-right: 1rem;
+}
+.common2{
+    color: #40514E;
+    text-align: left;
+    font-family: 'Merriweather';
+    font-size: 1rem;
+    line-height: 3;
+}
+h6{
+    color: #11999E;
+    font-family: 'Montserrat';
+    text-align : center;
+    font-size: large;
+}
+.end{
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather';
+    font-size: 1rem;
+}
+button{
+    text-align: center;
+    color: white ;
+    background-color: #11cdd4 ;
+    font-family: 'Montserrat';
+    font-size: medium;
+    border: none;
+    border-radius: 15px;
+}
+footer{
+    background-color: #66BFBF;
+    color: #EAF6F6;
+    text-align : center;
+   padding-top: 100px;
+   
+}
+
