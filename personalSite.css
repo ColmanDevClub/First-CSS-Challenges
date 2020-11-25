@@ -1,0 +1,165 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+    
+}
+
+body {
+    padding: 0;
+    margin: 0 auto;
+    font-family: 'Merriweather';
+    text-align: center;
+}
+
+p {
+    font-size: 0.8rem;
+    line-height: 1.8;
+    position: relative;
+}
+
+.top {
+    background-color: #E4F9F5;
+    color: #66BFBF;
+}
+
+h1 {
+    font-family: 'Sacramento';
+    padding-top: 100px;
+}
+
+.top h2{
+    font-family: 'Montserrat';
+    font-size: 1rem;
+}
+
+.top img {
+    height: 150px;
+}
+
+.img1 {
+    position: absolute;
+    top: 40px;
+    right: 250px;
+}
+
+.img2 {
+    position: absolute;
+    top: 180px;
+    left: 180px;
+}
+
+.middle {
+    color: #40514E;
+    width: 50%;
+}
+
+.hacker img{
+    border-radius: 100px;
+    position: relative;
+    top: 45px;
+    width: 150px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat';
+}
+
+.middle h3{
+    padding-top: 65px;
+    margin-bottom: 35px;
+}
+
+article {
+    margin-top: 60px;   
+}
+
+article p{
+    text-align: left;
+    position: relative;
+    margin-right: 100px;
+}
+
+article h4 {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+
+.firstGif img {
+    position: relative;
+    float: right;
+    margin-left: 1rem;
+    width: 180px;
+    height: 100px;
+}
+
+.secondGif img{
+    position: relative;
+    float: left;
+    margin-right: 1rem;
+    width: 180px;
+    height: 100px;
+}
+
+.touch {
+    width: 70%;
+    margin: 0 auto;
+}
+
+h4 {
+    font-family: 'Montserrat';
+    color: #11999E;
+}
+
+.touch h4 {
+    font-size: 0.9rem;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #11cdd4;
+    color: white;
+    border: none;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.4rem;
+    margin: 20px 10px;
+}
+
+button:hover {
+    background-color: #30e3cb;
+}
+
+.footer {
+    background-color: #66BFBF;
+    color: #EAF6F6;
+    font-size: 0.7rem;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
+}
+
+li a{
+    text-decoration: none;
+    color: #EAF6F6;
+}
+
+.footer p {
+    margin-top: 10px;
+    font-size: 0.7rem;
+    padding-bottom: 20px;
+}
+
+.dots {
+    color: #d1f7f0;
+    padding-top: 60px;
+}
