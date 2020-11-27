@@ -1,0 +1,139 @@
+header{
+    background-color: #E4F9F5;
+    text-align: center;
+
+}
+main{
+    text-align: center;
+    font-family: 'Merriweather', serif;  
+    color: #40514E;  
+    font-size: 1.5rem;
+}
+footer{
+    background-color: #66BFBF;
+    text-emphasis-color:#EAF6F6 ;
+   
+    
+}
+.finalfooter{
+    color: white;
+    font-size: 1rem;
+    margin-top: 2rem;
+   margin-bottom: 2rem;
+
+}
+.text-box1{
+    position: relative;
+   right: 11rem;
+   top:15rem;
+}
+.text-box2{
+    position: relative;
+   left: 9rem;
+   top: 10rem;
+   bottom: 5rem;
+}
+.gif1{
+    position: relative;
+    left:28rem;
+    top:5rem;
+   
+}
+
+.gif2{
+    position: relative;
+    right:30rem;
+    margin-bottom: 10rem;
+}
+.img1{
+    float:250px;
+    position: relative;
+    right:27rem;
+    top:14rem;
+}
+.img2{
+    float:250px;
+    position: relative;
+    left:22rem;
+    top:3rem;
+
+}
+.img3{
+    position: relative;
+    border-radius: 50rem;
+    width: 10rem;
+    height: 10rem;
+    top:2rem;
+
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Sacramento', cursive;
+    
+    text-align: center;
+    color:#66BFBF;
+
+}
+h2{
+    text-align: center;
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+font-weight: 100;
+
+}
+
+.h3-1{
+    position: relative;
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    top:15rem;
+    right: 28rem;
+    
+}
+.h3-2{
+    position: relative;
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    top:10rem;
+    right: 13rem;
+    bottom: 7rem;
+    
+
+}
+.h3-3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+button{
+text-align: center;
+background-color: #11cdd4;
+color:white;
+font-size: 15px;
+font-family: 'Merriweather';
+border:none;
+padding:0.5rem 1rem;
+border-radius: 0.5rem;
+margin-bottom: 3rem;
+margin-top: 1rem;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+}
+button:hover{
+color: #30e3cb;
+} 
+
+li{
+    color:#11999E;
+    font-size: 1rem;
+    display: inline-block;
+    margin-top: 3rem;
+    padding-right:2rem ;
+}
+.skills{
+    position: relative;
+    top:10rem
+}
